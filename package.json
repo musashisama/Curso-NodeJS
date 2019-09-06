@@ -1,0 +1,23 @@
+{
+  "name": "curso-nodejs",
+  "version": "1.0.0",
+  "description": "Curso de NodeJS da Alura",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musashisama/Curso-NodeJS.git"
+  },
+  "author": "Paulo de Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musashisama/Curso-NodeJS/issues"
+  },
+  "homepage": "https://github.com/musashisama/Curso-NodeJS#readme",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
